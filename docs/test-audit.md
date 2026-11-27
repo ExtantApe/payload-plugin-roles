@@ -2,6 +2,12 @@
 
 Newest first.
 
+## 2026-11-26: 14-day check
+
+- Changes since 2026-11-10: a README section (a9f7dc0), the 0.1.1 release (f2410ec), EXTANT APE named as the copyright holder (477528f, 0bd4528), the move to `@extantape` (953ceec), and two docs edits (452ae28, 6172c5a). Nothing in `src/` or `test/` changed.
+- Behavior unchanged; the suite passes (16 tests), and so does the typecheck.
+- Gaps: none new.
+
 ## 2026-11-10: the lead's fixes after the first audit
 
 Suite: 15 tests before, 16 after (`npx vitest run`).
